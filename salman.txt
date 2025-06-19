@@ -1,5 +1,5 @@
 Hello there! This is a random text file created for testing purposes.
 It contains some random text that will be pushed to GitHub.
 Today is a great day for coding!
-Random numbers: 42, 7, 13, 99
-Random words: sunshine, keyboard, coffee, algorithm, cloud
+Random numbers: 42, 7, 13, 99, 101
+Random words: sunshine, keyboard, coffee, algorithm, cloud, repository
